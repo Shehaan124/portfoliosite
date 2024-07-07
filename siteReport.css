@@ -1,0 +1,28 @@
+body{
+
+background:#081b29;
+
+}
+h1{
+	color: white;
+	text-align: center;
+}
+
+p{
+	color: white;
+}
+a{
+	color: white;
+}
+
+a:hover{
+	color: blue;
+}
+
+h2 {
+	color: white;
+}
+
+p {
+	padding-left: 20px;
+}

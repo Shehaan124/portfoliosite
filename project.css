@@ -1,0 +1,39 @@
+body{
+
+background:#081b29;
+
+}
+.grid-container {
+            display: grid;
+            grid-template-columns: auto auto auto; /* Define columns */
+            grid-gap: 10px; /* Define gap between grid items */
+            /* Additional grid properties can be added here */
+ }
+
+.grid-item {
+
+background-color: #f0f0f0;
+padding: 20px;
+text-align: center;
+font-size: 1.2em;
+
+}
+
+.grid-item img {
+    max-width: 10%;
+    height: auto;
+    display: block;
+}
+a{
+	padding-top: 30px;
+	display: inline-block;
+	color: white;
+}
+
+a:hover{
+
+	color: blue;
+}
+h1{
+	color: white;
+}
